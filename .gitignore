@@ -1,0 +1,27 @@
+# Arquivo .gitignore para projeto Java com NetBeans e Maven
+
+# Ignora arquivos de configuração do NetBeans
+nbproject/
+nbactions.xml
+nb-configuration.xml
+
+# Ignora diretórios de saída do Maven
+target/
+
+# Ignora arquivos .class gerados pelo compilador Java
+*.class
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos temporários
+*.tmp
+
+# Ignora arquivos de bases de dados
+*.db
+*.sqlite
+*.db3
+*.sqlitedb
+*.mysql
+*.pgsql
+*.sql
